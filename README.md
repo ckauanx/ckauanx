@@ -18,7 +18,7 @@ A modular, multi-tenant business hub with AI built into WhatsApp chat, per-tenan
 A one-shot institutional-site generator (template engine) that ships real client sites and plugs into Katto Hub.
 `Next.js 16` · `Tailwind v4` · `Supabase`
 
-**[Katto Enem — study app](https://enem.kattoneo.com)**
+**[Katto Enem — study app](https://kattoneo.com/enem)**
 A study app for the ENEM (Brazil's national college-entrance exam) built on learning science — interleaving, spaced repetition, and an essential-core syllabus.
 `Next.js 16` · `TypeScript` · `Supabase`
 
